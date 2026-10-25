@@ -1,0 +1,4 @@
+Environmental variable,Initial_correlation,Initial_p_value,Time_adjusted_correlation,Time_adjusted_p_value,Time_adjusted_significant_at_5_percent
+Relative humidity,0.7779,0.0006,0.6138,0.0149,True
+Rainfall,0.5985,0.0184,0.3103,0.2604,False
+NDWI,0.5658,0.0279,0.164,0.5592,False

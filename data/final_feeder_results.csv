@@ -1,0 +1,4 @@
+Feeder measure,Coefficient,P_value,Significant_at_5_percent
+Total time at feeder,-1e-05,0.48596,False
+Feeder attendance,0.00035,0.73773,False
+Days of feeder use,-0.00193,0.76031,False
